@@ -1,13 +1,4 @@
-# Quarto Template for the Tutorial
+# My website and data analysis portfolio
 
-This repository contains the template for the website tutorial at <https://www.marvinschmitt.com/blog/website-tutorial-quarto/>.
-
-<p align="center">
-  <img src="img/website_template_screenshot_1.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="img/website_template_screenshot_2.png" width="45%">
-<br/><br/>
-  <img src="img/website_template_screenshot_3.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="img/website_template_screenshot_4.png" width="45%">
+This is the Github respository for Guo Xiaoshuang's IT in business course portfolio for Fall 2024. My website can be found at <((https://li-droid123.github.io/)](https://li-droid123.github.io/)))>.
 </p>
